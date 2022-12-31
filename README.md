@@ -5,9 +5,10 @@
 
 🌱 Some of my recent projects:
 
-- I just finished a course in robotics. 
+- I just finished a course in robotics at Georgia Tech. 
 - I'm learning DBT in my free time.
-- I'm working on starting up a blog.
+- I'm working on starting up a blog (soon!).
+- I got an R package on CRAN. It's called {ggalignment} and it makes D&D alignment-style charts.
 
 📫 How to reach me: Send me an email at aftoncoombs@gmail.com, or send a DM to @aftonsteps on Mastodon and Twitter
 
