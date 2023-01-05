@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @aftonsteps (but my real name is Afton Coombs). I’m a linguist-turned-data-scientist who dabbles in application development. My interests include data science tooling, data visualization, experimentation, and text analytics. I’m also a part-time student at Georgia Tech, where I’m currently researching student opportunities and outcomes. When I’m not working, you can find me on the dance floor or in the studio. 👞🎵
+👋 Hi, I’m @aftonsteps (but my real name is Afton Coombs). I’m a linguist-turned-data-scientist who dabbles in application development. My interests include data science tooling, data visualization, experimentation, forecasting, and text analytics. I also get really excited about fraud prevention, online safety, and generally keeping things safe. I’m a part-time student at Georgia Tech, where I’m currently researching student opportunities and outcomes. When I’m not working, you can find me on the dance floor or in the studio. 👞🎵
 
 💻 You can find my website at https://aftoncoombs.com
 
@@ -8,7 +8,7 @@
 - I just finished a course in robotics at Georgia Tech. 
 - I'm learning DBT in my free time.
 - I'm working on starting up a blog (soon!).
-- I got an R package on CRAN. It's called {ggalignment} and it makes D&D alignment-style charts.
+- I have an R package on CRAN. :) It's called {ggalignment} and it makes D&D alignment-style charts.
 
 📫 How to reach me: Send me an email at aftoncoombs@gmail.com, or send a DM to @aftonsteps on Mastodon and Twitter
 
