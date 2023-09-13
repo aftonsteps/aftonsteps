@@ -7,7 +7,7 @@
 
 - I just finished a course in robotics at Georgia Tech.
 - I'm currently learning to make games in Unity.
-- I'm maintainer of a blog/art project devoted to reviews of strange foods at [snack-rooms.com](https://www.snack-rooms.com].
+- I'm maintainer of a blog/art project devoted to reviews of strange foods at [snack-rooms.com](https://www.snack-rooms.com).
 - I'm the primary author and maintainer of an R package on CRAN. :) It's called {ggalignment} and it makes D&D alignment-style charts.
 
 📫 How to reach me: Send me an email at aftoncoombs@gmail.com, or send a DM to @aftonsteps on Mastodon, BlueSky, Twitter, IG, etc.
