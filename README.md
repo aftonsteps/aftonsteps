@@ -1,7 +1,7 @@
 
-👋 Hi, I’m @aftonsteps (full name Afton Coombs). I’m a data scientist, developer, and dancer with an interest in archival technology, digital humanities, and anti-surveillance movement practices. As a dancer, my background is in tap, flatfoot, and house. As a data scientist and developer, I have worked in analytics, experimentation, data visualization, and web development. I most enjoy using these technical skills for artists and educators. My research interests include adversarial designs, modeling of randomness and emergent patterns in art, and equity in higher education. I’m currently a graduate student at Georgia Tech, where I’m specializing in interactive intelligence. I'm also working on research at GT concerned with student opportunities and outcomes.
+👋 Hi, I’m @aftonsteps (full name Afton Coombs). I’m a data scientist, developer, and dancer with an interest in archival technology, digital humanities, and anti-surveillance movement practices. As a dancer, my background is in tap, flatfoot, and house. As a data scientist and developer, I have worked in analytics, experimentation, data visualization, and web development. I most enjoy using these technical skills for artists and educators. I’m currently studying dance at Pasadena City College and computer science at Georgia Tech.
 
-💻 You can find my website at https://aftonsteps.com
+💻 You can find my website at https://www.aftonsteps.com
 
 🌱 Some of my recent projects:
 
